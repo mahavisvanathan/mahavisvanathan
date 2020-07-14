@@ -5,6 +5,30 @@
 - 💬 Ask me about Machine Learning, Deep Learning and Computer Vision.
 - 📫 How to reach me?: [Website](https://mahav.me/) or [LinkedIn](https://linkedin.com/in/mahavisvanathan/)
 - 😄 Pronouns: "she" | "her"
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+## Languages Known 📜
+- Python
+- Java
+- C/C++
+- JavaScript
+- HTML, CSS
+- PHP
+- MySQL
+- MongoDB
+
+### Languages 🌐
+
+| Language      | Proficiency         |
+| ------------- | --------------------|
+| English (duh) | Bilingual Profiency |
+| French        | ELF-A2              |
+| Tamil         | Native Language     |
+</details>
 <!-- footer --!>
 <p align="center">
 <a href="http://hits.dwyl.com/mahavisvanathan/mahavisvanathan"><img src="http://hits.dwyl.com/mahavisvanathan/mahavisvanathan.svg" alt="HitCount"></a>&nbsp;&nbsp; 
