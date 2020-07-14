@@ -4,7 +4,7 @@
 - 🌱 I’m a Student from Sri Venkateswara College of Engineering majoring in Computer Science.
 - 🔭 I’m currently a Research Intern at IIT Kharagpur
 - 💬 Ask me about Machine Learning, Deep Learning and Computer Vision.
-- 📫 How to reach me?: [Website](https://mahav.me/) or [LinkedIn](https://linkedin.com/in/mahavisvanathan/)
+- 📫 How to reach me? [Website](https://mahav.me/) or [LinkedIn](https://linkedin.com/in/mahavisvanathan/)
 - 😄 Pronouns: "she" | "her"
 
 <details>
