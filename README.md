@@ -12,7 +12,7 @@
   More stuff about me
 </summary>
 
-## Languages Known 📜
+## Languages, Tools and Framework Known 📜
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />&nbsp; 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />&nbsp; 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />&nbsp; 
@@ -22,6 +22,15 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/php.svg" />&nbsp; 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mysql.svg" />&nbsp; 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" />&nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/tensorflow.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/grafana.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/figma.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/androidstudio.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/flask.svg" />&nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/bootstrap.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />&nbsp; 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />&nbsp; 
 
 
