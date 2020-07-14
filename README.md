@@ -30,8 +30,6 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/androidstudio.svg" />&nbsp; 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/flask.svg" />&nbsp;
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/bootstrap.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />&nbsp; 
 
 
 ### Languages 🌐
@@ -39,7 +37,7 @@
 | Language      | Proficiency         |
 | ------------- | --------------------|
 | English (duh) | Bilingual Profiency |
-| French        | ELF-A2              |
+| French        | DELF-A2              |
 | Tamil         | Native Language     |
 </details>
 <!-- footer --!>
