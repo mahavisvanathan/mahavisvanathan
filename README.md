@@ -5,7 +5,7 @@
 - 💬 Ask me about Machine Learning, Deep Learning and Computer Vision.
 - 📫 How to reach me: [Website](https://mahav.me/) or [LinkedIn](https://linkedin.com/in/mahavisvanathan/)
 - 😄 Pronouns: "she" | "her"
-- ⚡ Fun fact: I know all the memes.
+- ⚡ Fun fact: My Boyfriend is @K-Kraken,my mentor and he's everything.
 <!-- footer --!>
 <p align="center"><a href="http://hits.dwyl.com/mahavisvanathan/mahavisvanathan"><img src="http://hits.dwyl.com/mahavisvanathan/mahavisvanathan.svg" alt="HitCount"></a>&nbsp;&nbsp; 
     <a id="GitHub" href="https://github.com/mahavisvanathan/"><img height="20px" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white" alt="Krishnakanth Alagiri - GitHub" /></a>
