@@ -13,14 +13,17 @@
 </summary>
 
 ## Languages Known 📜
-- Python
-- Java
-- C/C++
-- JavaScript
-- HTML, CSS
-- PHP
-- MySQL
-- MongoDB
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/php.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mysql.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />&nbsp; 
+
 
 ### Languages 🌐
 
