@@ -9,27 +9,27 @@
 
 <details>
 <summary>
-  More stuff about me
+  <b>More stuff about me</b>
 </summary>
 
 ## Languages, Tools and Framework Known 📜
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/php.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mysql.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" />&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/tensorflow.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/grafana.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/figma.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/androidstudio.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/flask.svg" />&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/bootstrap.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/pytorch.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/tensorflow.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/grafana.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/git.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/figma.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/androidstudio.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/flask.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/bootstrap.svg" />&nbsp; 
 
 
 ### Languages 🌐
