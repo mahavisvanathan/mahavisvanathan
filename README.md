@@ -1,5 +1,4 @@
 <p align="center"><img src="https://imgur.com/wd3bnrm.gif"/></p>
-<p align="center"><a href="https://visitor-badge.glitch.me/badge?page_id=mahavisvanathan.mahavisvanathan"><img src="https://visitor-badge.glitch.me/badge?page_id=mahavisvanathan.mahavisvanathan" alt="visitor badge"/></a></p>
 
 - 🌱 I’m a Student from Sri Venkateswara College of Engineering majoring in Computer Science.
 - 🔭 I’m currently a Research Intern at IIT Kharagpur
